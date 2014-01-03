@@ -4,7 +4,7 @@ package
 	import com.gestureworks.core.GestureWorks;
 	import flash.events.Event;
 	import com.gestureworks.cml.core.*;
-	import com.gestureworks.cml.element.*;
+	import com.gestureworks.cml.elements.*;
 	import com.gestureworks.cml.events.*;
 	import com.gestureworks.cml.managers.*;
 	import com.gestureworks.cml.utils.*;
@@ -14,8 +14,8 @@ package
 	import flash.text.*;
 	import flash.utils.*;
 	import com.gestureworks.cml.core.CMLObjectList;
-	import com.gestureworks.cml.element.Accordion;
-	import com.gestureworks.cml.element.Text;
+	import com.gestureworks.cml.elements.Accordion;
+	import com.gestureworks.cml.elements.Text;
 	import com.gestureworks.cml.events.StateEvent;
 	import com.greensock.*;
 

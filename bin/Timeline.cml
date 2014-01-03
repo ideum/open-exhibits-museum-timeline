@@ -2,15 +2,15 @@
 
 <cml css="styles.css" tuio="false" simulator="false">
 
-<StageKit fullscreen="true" />
+<Stage fullscreen="true" />
 
 	<LibraryKit>
 		<Library type="swf" src="library/swfs/openexhibits_assets.swf" />	
 	</LibraryKit>
 
-	<BackgroundKit>
+	<Background>
 		<Image id="default-bg" src="library/images/timeline-bg.png" visible="true"/>    
-	</BackgroundKit>
+	</Background>
 	
 
 <Album x="20" y="120" margin="20" width="1880" height="890" backgroundAlpha="0" mouseChildren="true" clusterBubbling="true" dragGesture="album-drag">
