@@ -27,7 +27,7 @@ package
 		public function Main():void 
 		{
 			super();
-			cml = "Timeline.cml";
+			cml = "library/cml/Timeline.cml";
 			gml = "library/gml/my_gestures.gml";
 			
 			// add this event listener so we know when the CML parsing is complete

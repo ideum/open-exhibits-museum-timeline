@@ -16,7 +16,6 @@
   <!-- Other classes to be compiled into your SWF -->
   <classpaths>
     <class path="src" />
-    <class path="..\lib" />
   </classpaths>
   <!-- Build options -->
   <build>
@@ -70,6 +69,9 @@
     <element path="..\..\lib\GestureWorksGML.swc" />
     <element path="..\lib\GestureWorksCML_4.0.0.swc" />
     <element path="..\lib\GestureWorksGML_4.0.0.swc" />
+    <element path="lib\GestureWorksCML_4.1.0.swc" />
+    <element path="lib\GestureWorksGML_4.1.0.swc" />
+    <element path="lib\textLayout.swc" />
   </libraryPaths>
   <!-- External Libraries -->
   <externalLibraryPaths>
@@ -107,7 +109,7 @@
   </options>
   <!-- Plugin storage -->
   <storage>
-    <entry key="at_enabled"><![CDATA[1]]></entry>
+    <entry key="at_enabled"><![CDATA[0]]></entry>
     <entry key="at_password"><![CDATA[]]></entry>
   </storage>
 </project>
