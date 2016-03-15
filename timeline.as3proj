@@ -16,6 +16,8 @@
   <!-- Other classes to be compiled into your SWF -->
   <classpaths>
     <class path="src" />
+    <class path="src\oe\gestureworks-flash-cml" />
+    <class path="src\oe\gestureworks-flash-gml" />
   </classpaths>
   <!-- Build options -->
   <build>
@@ -69,9 +71,9 @@
     <element path="..\..\lib\GestureWorksGML.swc" />
     <element path="..\lib\GestureWorksCML_4.0.0.swc" />
     <element path="..\lib\GestureWorksGML_4.0.0.swc" />
-    <element path="lib\GestureWorksCML_4.1.0.swc" />
-    <element path="lib\GestureWorksGML_4.1.0.swc" />
-    <element path="lib\textLayout.swc" />
+    <element path="src\oe\gestureworks-flash-cml\lib\cml_ext.swc" />
+    <element path="src\oe\gestureworks-flash-cml\lib\gui.swc" />
+    <element path="src\oe\gestureworks-flash-gml\lib\gml_ext.swc" />
   </libraryPaths>
   <!-- External Libraries -->
   <externalLibraryPaths>
