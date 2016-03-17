@@ -13,17 +13,11 @@ SUPPORTED OPERATING SYSTEMS<br>
 Windows 7<br>
 Windows 8
 
-Download
-v 1.1  download 15.27 MB 719 downloads
-
-Fixed text alignment
 OLDER VERSIONS View Older Version
 
-SUPPORTED OPERATING SYSTEMS
-
-Windows 7
+SUPPORTED OPERATING SYSTEMS<br>
+Windows 7<br>
 Windows 8
-Documentation
 
 REQUIRED ENVIRONMENTS<br>
 Adobe Flash Player 11+
