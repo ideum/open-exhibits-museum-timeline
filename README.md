@@ -4,7 +4,7 @@ The Museum Timeline exhibit is a multitouch interface that allows scrolling of i
 The exhibit is fully configured in [CML](http://www.creativeml.org/doku.php) to support easy customization of features. Each panel can have associated images and descriptions. Font sizes and colors, information overlay background color, and the number of media files are all customizable.
 
 VIDEO<br>
-https://player.vimeo.com/video/71291509
+https://vimeo.com/71291509
 
 NOTES<br>
 Fixed text alignment
