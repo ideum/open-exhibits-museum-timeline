@@ -13,8 +13,6 @@ SUPPORTED OPERATING SYSTEMS
 - Windows 7
 - Windows 8
 
-OLDER VERSIONS View Older Version
-
 SUPPORTED OPERATING SYSTEMS
 - Windows 7
 - Windows 8
